@@ -19,7 +19,7 @@ import pageClass.PlantCareSecondItemcart;
 import pageClass.ProfileDetailChange;
 import pageClass.Register;
 
-public class Test_class extends BaseClass{
+public class Test_class {
 	
 	
 	WebDriver driver;
